@@ -10,8 +10,8 @@ ext {
 
     libraryDescription = 'A simple library tried to publish in JCenter.'
 
-    siteUrl = 'https://github.com/ManojBehera/LibraryDemo'
-    gitUrl = 'https://github.com/ManojBehera/LibraryDemo.git'
+    siteUrl = 'https://github.com/ManojBehera/LibraryExample2'
+    gitUrl = 'https://github.com/ManojBehera/LibraryExample2.git'
 
     libraryVersion = '1.0.0'
 
